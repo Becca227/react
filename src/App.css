@@ -1,0 +1,6 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to bottom, #000000, #040542);
+  display: flex;
+}
