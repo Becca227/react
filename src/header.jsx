@@ -32,7 +32,7 @@ const Header = () => {
             }}>Home</Nav.Link>
             <Nav.Link style={{color: 'white'}} >About Us</Nav.Link>
             <Nav.Link style={{color: 'white'}} >Contact</Nav.Link>
-            <Nav.Link style={{color: 'white'}>Gallery</Nav.Link>
+            <Nav.Link style={{color: 'white'}}>Gallery</Nav.Link>
             <Nav.Link style={{color: 'white'}} >Help</Nav.Link>
           </Nav>
         <Button variant="outline-dark" style={{color: 'white'}} >Get The App  <ArrowUpRight /></Button>
