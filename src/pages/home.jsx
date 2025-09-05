@@ -6,6 +6,7 @@ import Progress from '../progress.jsx'
 import Choice from '../choice.jsx'
 import Contact from '../contac.jsx'
 import TestimonialScroll from '../customer.jsx'
+import Footer from '../footer.jsx'
 
 function Home() {
   
@@ -20,6 +21,7 @@ function Home() {
       <Choice/>
       <Contact/>
       <TestimonialScroll/>
+      <Footer/>
     </>
   )
 }
